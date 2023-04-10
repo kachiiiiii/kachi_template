@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#home{
+    background-image: url(../img/a.jpg);
+    background-size: cover;
+    background-position: center;
+    filter: blur(4px);
+}
